@@ -1,0 +1,21 @@
+# github.com/ahmetb/go-linq v3.0.0+incompatible
+github.com/ahmetb/go-linq
+# github.com/thoas/go-funk v0.0.0-20181020164546-fbae87fb5b5c
+github.com/thoas/go-funk
+# github.com/wesovilabs/koazee v0.0.0 => ../koazee
+github.com/wesovilabs/koazee
+github.com/wesovilabs/koazee/stream
+github.com/wesovilabs/koazee/errors
+github.com/wesovilabs/koazee/internal/add
+github.com/wesovilabs/koazee/internal/at
+github.com/wesovilabs/koazee/internal/contains
+github.com/wesovilabs/koazee/internal/drop
+github.com/wesovilabs/koazee/internal/duplicates
+github.com/wesovilabs/koazee/internal/filter
+github.com/wesovilabs/koazee/internal/first
+github.com/wesovilabs/koazee/internal/foreach
+github.com/wesovilabs/koazee/internal/last
+github.com/wesovilabs/koazee/internal/maps
+github.com/wesovilabs/koazee/internal/reduce
+github.com/wesovilabs/koazee/internal/reverse
+github.com/wesovilabs/koazee/internal/sort
